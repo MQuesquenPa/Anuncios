@@ -1,0 +1,1 @@
+<?php echo "Este es el panel Admin";?>
